@@ -1,9 +1,3 @@
-
-
-
-
-
-
 #
 # Copyright (C) 2021 The PixelExperience Project
 #
