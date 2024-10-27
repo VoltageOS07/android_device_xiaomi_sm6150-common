@@ -1,3 +1,9 @@
+
+
+
+
+
+
 #
 # Copyright (C) 2021 The PixelExperience Project
 #
@@ -360,7 +366,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/powerhint.json:$(TARGET_COPY_OUT_VENDOR)/etc/powerhint.json
 
 PRODUCT_SOONG_NAMESPACES += \
-    hardware/lineage/interfaces/power-libperfmgr \
+    hardware/superior/interfaces/power-libperfmgr \
     hardware/qcom-caf/common/libqti-perfd-client \
     hardware/google/interfaces \
     hardware/google/pixel
