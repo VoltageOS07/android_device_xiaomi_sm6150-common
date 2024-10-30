@@ -8,8 +8,6 @@ soong_namespace {
         "hardware/xiaomi",
         "hardware/google/interfaces",
         "hardware/google/pixel",
-        "hardware/qcom-caf/common/libqti-perfd-client",
-        "hardware/superior/interfaces/power-libperfmgr",
     ],
 }
 
